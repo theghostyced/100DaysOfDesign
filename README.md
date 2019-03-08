@@ -13,3 +13,11 @@ Hope you like it 😃
 Myself - I did an illustration of myself-ish 😜 to get the challenge started
 
 ![my_avatar](https://user-images.githubusercontent.com/28215750/53978310-33bd4b00-410b-11e9-8ffc-61be364de173.png)
+
+* **Day 2**
+
+For Day 2, I decided to design my favourite animal. Suprise suprise its a dog 😋. I know I really didnt do the dog justice
+
+but hey... that's why we taking this challenge(to improve) 😁💪
+
+![dog](https://user-images.githubusercontent.com/28215750/54058499-406a9d80-41f6-11e9-8258-b0273238f028.png)
