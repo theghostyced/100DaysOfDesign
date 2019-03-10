@@ -21,3 +21,9 @@ For Day 2, I decided to design my favourite animal. Suprise suprise its a dog �
 but hey... that's why we taking this challenge(to improve) 😁💪
 
 ![dog](https://user-images.githubusercontent.com/28215750/54058499-406a9d80-41f6-11e9-8258-b0273238f028.png)
+
+* **Day 3**
+
+For Day 3, I decided to work on my flat designs and so I design a human face (initial idea was a bulglar though). Onwards we go 💪
+
+![bulglar](https://user-images.githubusercontent.com/28215750/54088751-66f91780-4361-11e9-81bd-78f768cc8278.png)
