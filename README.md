@@ -27,3 +27,9 @@ but hey... that's why we taking this challenge(to improve) 😁💪
 For Day 3, I decided to work on my flat designs and so I design a human face (initial idea was a bulglar though). Onwards we go 💪
 
 ![bulglar](https://user-images.githubusercontent.com/28215750/54088751-66f91780-4361-11e9-81bd-78f768cc8278.png)
+
+* **Day 4**
+
+For Day 4, We had a lovely night sky here in Lagos nigeria, so I decided to design an illustration replicating that. Hope it came out nice
+
+![day 4 night sky](https://user-images.githubusercontent.com/28215750/54159557-89685f00-444d-11e9-96a4-74fc7606744b.png)
