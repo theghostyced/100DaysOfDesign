@@ -33,3 +33,9 @@ For Day 3, I decided to work on my flat designs and so I design a human face (in
 For Day 4, We had a lovely night sky here in Lagos nigeria, so I decided to design an illustration replicating that. Hope it came out nice
 
 ![day 4 night sky](https://user-images.githubusercontent.com/28215750/54159557-89685f00-444d-11e9-96a4-74fc7606744b.png)
+
+* **Day 5**
+
+For Day 5, I designed an imaginary character called Egor. Not to toot my own horn 🚂 but I could say am getting better.😋
+
+![Day 5 Flat Design](https://user-images.githubusercontent.com/28215750/54391020-186eb480-46a4-11e9-9e3e-b517ff6c8fb7.png)
