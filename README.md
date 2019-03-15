@@ -39,3 +39,15 @@ For Day 4, We had a lovely night sky here in Lagos nigeria, so I decided to desi
 For Day 5, I designed an imaginary character called Egor. Not to toot my own horn 🚂 but I could say am getting better.😋
 
 ![Day 5 Flat Design](https://user-images.githubusercontent.com/28215750/54391020-186eb480-46a4-11e9-9e3e-b517ff6c8fb7.png)
+
+* **Day 6**
+
+For Day 6, I was watching an adobe live event(https://www.youtube.com/watch?v=aYydsf22euM) and fell in love with the design the speaker (Emma Zhang) was creating. So I descided to take a stab at it and add my own flare😁
+
+![Day 6 - Artboard](https://user-images.githubusercontent.com/28215750/54465361-06ac1080-477b-11e9-8b7c-f529ca031157.png)
+
+* **Day 7**
+
+Day 7 inspiration came from a YouTube video from Dan Gartman (https://www.youtube.com/channel/UC3ACPbqZDYj0XPnVMZTGqbw). He used a tablet to design it and I wanted to see if I could recreate the illustration with just my trackpad. Its not 100% there, but hey I like it 😁
+
+![day 7 - human](https://user-images.githubusercontent.com/28215750/54481079-9364d600-4830-11e9-9083-803dfa7909f3.png)
