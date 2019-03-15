@@ -39,3 +39,10 @@ For Day 4, We had a lovely night sky here in Lagos nigeria, so I decided to desi
 For Day 5, I designed an imaginary character called Egor. Not to toot my own horn 🚂 but I could say am getting better.😋
 
 ![Day 5 Flat Design](https://user-images.githubusercontent.com/28215750/54391020-186eb480-46a4-11e9-9e3e-b517ff6c8fb7.png)
+
+* **Day 6**
+
+For Day 6, I was watching an adobe live event(https://www.youtube.com/watch?v=aYydsf22euM) and fell in love with the design the speaker (Emma Zhang) was creating. So I descided to take a stab at it and add my own flare😁
+
+![Day 6 - Artboard](https://user-images.githubusercontent.com/28215750/54465361-06ac1080-477b-11e9-8b7c-f529ca031157.png)
+
