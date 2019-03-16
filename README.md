@@ -46,6 +46,7 @@ For Day 6, I was watching an adobe live event(https://www.youtube.com/watch?v=aY
 
 ![Day 6 - Artboard](https://user-images.githubusercontent.com/28215750/54465361-06ac1080-477b-11e9-8b7c-f529ca031157.png)
 
+
 * **Day 7**
 
 Day 7 inspiration came from a YouTube video from Dan Gartman (https://www.youtube.com/channel/UC3ACPbqZDYj0XPnVMZTGqbw). He used a tablet to design it and I wanted to see if I could recreate the illustration with just my trackpad. Its not 100% there, but hey I like it 😁
