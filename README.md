@@ -52,3 +52,10 @@ For Day 6, I was watching an adobe live event(https://www.youtube.com/watch?v=aY
 Day 7 inspiration came from a YouTube video from Dan Gartman (https://www.youtube.com/channel/UC3ACPbqZDYj0XPnVMZTGqbw). He used a tablet to design it and I wanted to see if I could recreate the illustration with just my trackpad. Its not 100% there, but hey I like it 😁
 
 ![day 7 - human](https://user-images.githubusercontent.com/28215750/54481079-9364d600-4830-11e9-9083-803dfa7909f3.png)
+
+* **Day 8**
+
+Day 8 I decided to design a character I really loved. So here's Luffy (One Piece). If you don't know who he is 🤦🏻‍ I advise you watch One Piece. It will seriously change your life 😁.
+
+!![Asset 1](https://user-images.githubusercontent.com/28215750/54496816-c9b75980-48f3-11e9-88ab-3efdc52e24ef.png)
+
