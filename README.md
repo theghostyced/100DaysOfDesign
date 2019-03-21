@@ -59,3 +59,8 @@ Day 8 I decided to design a character I really loved. So here's Luffy (One Piece
 
 !![Asset 1](https://user-images.githubusercontent.com/28215750/54496816-c9b75980-48f3-11e9-88ab-3efdc52e24ef.png)
 
+* **Day 9**
+
+Day 9. I decided to design a scrum board and yes I am testing out my brush skills.
+
+![day 9 - Scrum board](https://user-images.githubusercontent.com/28215750/54779803-5f1a5c80-4c18-11e9-98e0-0b2f6349f8bd.png)
